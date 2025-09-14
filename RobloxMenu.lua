@@ -1,1 +1,1230 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _PzSOytsWEAbS = a; end)); return(function(c,...)local d;local s;local r;local o;local f;local t;local e=24915;local n=0;local l={};while n<753 do n=n+1;while n<0x181 and e%0x35e4<0x1af2 do n=n+1 e=(e*117)%32647 local a=n+e if(e%0x802)<0x401 then e=(e-0x2a0)%0x30b6 while n<0x9c and e%0x1a9a<0xd4d do n=n+1 e=(e*507)%35441 local d=n+e if(e%0x10c4)<=0x862 then e=(e-0xa4)%0x12a6 local e=39879 if not l[e]then l[e]=0x1 t=(not t)and _ENV or t;end elseif e%2~=0 then e=(e*0x9e)%0x5bbe local e=5292 if not l[e]then l[e]=0x1 s=tonumber;end else e=(e*0xd5)%0x17f6 n=n+1 local e=2987 if not l[e]then l[e]=0x1 t=getfenv and getfenv();end end end elseif e%2~=0 then e=(e-0x1bd)%0x969f while n<0x20b and e%0x2a42<0x1521 do n=n+1 e=(e+795)%24229 local a=n+e if(e%0x3258)>=0x192c then e=(e*0x1dd)%0x1b79 local e=87664 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0x14e)%0x1aab local e=6391 if not l[e]then l[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\87\82\74\81\106\84\119\105\0\6\115\116\114\105\110\103\4\99\104\97\114\97\82\90\79\116\77\87\107\0\6\115\116\114\105\110\103\3\115\117\98\88\104\81\119\83\67\122\117\0\6\115\116\114\105\110\103\4\98\121\116\101\65\98\81\81\118\74\77\65\0\5\116\97\98\108\101\6\99\111\110\99\97\116\76\115\88\100\104\120\116\75\0\5\116\97\98\108\101\6\105\110\115\101\114\116\66\104\79\117\76\77\100\121\5";end else e=(e-0x12a)%0x1bf5 n=n+1 local e=47917 if not l[e]then l[e]=0x1 d=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=r.byte(n(0x01))local e=n(e)if l=="\2"then e=o.WRJQjTwi(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then t[e]=function(n,e)return c(8,nil,c,e,n)end elseif l=="\4"then e=t[e]elseif l=="\0"then e=t[e][n(r.byte(n(0x01)))];end local n=n(0x08)o[n]=e end end end end end else e=(e-0x2cd)%0x2925 n=n+1 while n<0x114 and e%0x1ca4<0xe52 do n=n+1 e=(e*119)%3265 local t=n+e if(e%0x2d20)>=0x1690 then e=(e+0x227)%0x5b43 local e=78510 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0x3f1)%0x7df4 local e=24015 if not l[e]then l[e]=0x1 o={};end else e=(e*0x196)%0x2053 n=n+1 local e=94008 if not l[e]then l[e]=0x1 r=string;end end end end end e=(e+818)%30927 end d(f);local n={};for e=0x0,0xff do local l=o.aRZOtMWk(e);n[e]=l;n[l]=e;end local function u(e)return n[e];end local r=(function(a,d)local f,l=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local r=a while true do n[0x03][o.XhQwSCzu(d,e,(function()e=f+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""l=0x000 break end end local t=#d while e<t+0x01 do n[0x02][l]=o.XhQwSCzu(d,e,(function()e=f+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 o.BhOuLMdy(n[0x01],(u((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+r)%0x100)));r=a+r;end end return o.LsXdhxtK(n[0x01])end);d(r(152,"cH:3y=.(;qju98im.8"));d(r(107,"^kjw AsUQG!}lzr%GAwJwjlQA}rUQkL% kwszlsG>kQAMs}!AlrGskczUlzjsQsQ%.Qwjw}Q +zA %kj! wp}ssGQ!jwjw}! sr4U}MwU}wUlQAsl%Qw%}  z%rkUU{!GswZ}r%krrUUk%!wwz}%UQ%lU!kj!GAUrUkj!}!Gwjz!swGAGkkr} AlrGUGrA!Ayrll j%lGj}!AUAwz!UrZlGGwz}%sUrGU%kr!lAur}AU9}Gzj }zw!QQjcY !Qw}rkUkIGA%k l%A-l%QGMGQ}k!sz?jF!QGjslswjzjAQrzUzjZzlAjGkjA%j}GA!%#U}kQQ%jklA%!GwG j }zAwrsUjvlG!j%z>sUzGUjkQGQw%U3O!brGXjslAAwQGQzk}}jwQl%slr6UjwUlAAAz QjS% jzGzzs}-jQQk%}lw!zlAzt Ulw%} AzGjjQjQ}% }rAQ=rlG}k lUw%zGsA%l zr rsszbGGUj!z4wAz}Qw%%G wGz! QGGwjwF}Gskr!klkj!z Az!UjzGG jk}%w l%U rl j"));local e=(-45568+(function()local t,n=0,1;(function(e,n)e(e(n and e,n),n(e,n))end)(function(e,l)if t>488 then return e end t=t+1 n=(n*649)%49371 if(n%456)>228 then n=(n-439)%39969 return e else return e(l(e,l),l(e,e))end return l(e(e,l and e),e(e and e,l and l))end,function(e,l)if t>111 then return e end t=t+1 n=(n-491)%11306 if(n%1764)>882 then n=(n+839)%21929 return e(l(l,l),l(e and l,e))else return e end return e end)return n;end)())local h=o.TaM_BpPd or o.JGwpkUnf;local te=(getfenv)or(function()return _ENV end);local a=4;local d=3;local t=2;local de=1;local function _(k,...)local u=r(e,";WP/v*L4gRAmM1 ^mv*AG4mvLPW*mmLgW*DA /R7/Rm1ggvv4 v/14gv/WPm^AA4*/ *Avv^^gRRL4WPmLLgB M4vRW4m^LMWA1b*o/K11ggMv4vW1MA44gm/P mR{1RAM/P1^gMg1v ^Mm/:13(m&L.nLL 4PnRMgPPW^M 4gPAMg4//WM^4m v gg4/^ Uv*W^  Rmv41RRgv/A1R3WAR*LP  Rmvg*1WLM/LMWMRT/P1^M1LmPA1g4LPu1vgL^/1*g /RAgRg/v^4*MWZ1gg*P1^LAP/Md>v/^MRMvR^LIPAw44^1AL41P*1WLP^1AL4vWPL1P/ML4/P%/R Rgg/g^vAPv1^WA/vRR1/M RRLv/^vR1vA^4A**W^ AmLAW/mP*^TMmmLLW/M:4^P4M44vPW1v4mPg1*Ag//1MgR/L RRq/  ARmvv^*A/vm^gA**g^^A1*RxLM4Lqw1mALgWvMWL P1M^4*PPM^g/PR1Lg/vP MgA/g vRv/  mRgL*2)R^v1^RA4*/CWA1LMW4mvLv. MwLgW*MPL^/GMR44P/1/41PA14gv/v1 gm/g *RPvW MRR*R^/AEv1^mA4**3WA L igm*LPWHmMLRWLM/4GW1MA44");local n=0;o.__DrofWu(function()o.KVGGBPwX()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,f=c(0,c,e,u,o.AbQQvJMA);local function r()local l,n=o.AbQQvJMA(u,e(1,3),e(5,6)+2);e(2);return(n*256)+l;end;local j=true;local j=0 local function z()local e=n();local n=n();local d=1;local t=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(t==j)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(t==0)and(n*(1/0))or(n*(0/0));end;return o.kBmAjKpq(n,e-1023)*(d+(t/(2^52)));end;local g=n;local function b(n)local l;if(not n)then n=g();if(n==0)then return'';end;end;l=o.XhQwSCzu(u,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+j),#l do e=e..o.XhQwSCzu(l,n,n)end return e;end;local j=#o.gsuRVgRd(s('\49.\48'))~=1 local e=n;local function y(...)return{...},o.DUhOO_kD('#',...)end local function ne()local s={};local e={};local h={};local u={h,s,nil,e};local e=n()local c={}for t=1,e do local l=f();local e;if(l==2)then e=(f()~=#{});elseif(l==0)then local n=z();if j and o.UyhQTVoj(o.gsuRVgRd(n),'.(\48+)$')then n=o.DjbkKQaD(n);end e=n;elseif(l==1)then e=b();end;c[t]=e;end;for u=1,n()do local e=f();if(l(e,1,1)==0)then local o=l(e,2,3);local f=l(e,4,6);local e={r(),r(),nil,nil};if(o==0)then e[d]=r();e[a]=r();elseif(o==#{1})then e[d]=n();elseif(o==k[2])then e[d]=n()-(2^16)elseif(o==k[3])then e[d]=n()-(2^16)e[a]=r();end;if(l(f,1,1)==1)then e[t]=c[e[t]]end if(l(f,2,2)==1)then e[d]=c[e[d]]end if(l(f,3,3)==1)then e[a]=c[e[a]]end h[u]=e;end end;u[3]=f();for e=1,n()do s[e-(#{1})]=ne();end;return u;end;local function ee(l,e,n)local t=e;local t=n;return s(o.UyhQTVoj(o.UyhQTVoj(({o.__DrofWu(l)})[2],e),n))end local function le(g,e,f)local function ee(...)local r,m,k,p,s,n,u,z,j,b,_,l;local e=0;while-1<e do if 2<e then if e<5 then if 3<e then b=o.DUhOO_kD('#',...)-1;_={};else z={};j={...};end else if e>=4 then repeat if e<6 then l=c(7);break;end;e=-2;until true;else l=c(7);end end else if e>=1 then if 1==e then k=c(6,39,3,33,g);s=y p=0;else n=-41;u=-1;end else r=c(6,20,1,80,g);m=c(6,1,2,38,g);end end e=e+1;end;for e=0,b do if(e>=k)then z[e-k]=j[e+1];else l[e]=j[e+1];end;end;local e=b-k+1 local e;local o;local function c(...)while true do end end while true do if n<-40 then n=n+42 end e=r[n];o=e[de];if 11<o then if o<18 then if 15>o then if 12>=o then local n=e[t]local t,e=s(l[n](h(l,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;l[n]=t[e];end;else if 11~=o then repeat if 14>o then l(e[t],e[d]);break;end;n=e[d];until true;else n=e[d];end end else if 16<=o then if 17~=o then f[e[d]]=l[e[t]];else local e=e[t]l[e]=l[e](h(l,e+1,u))end else local c,b,g,k,p,m,z,o,_,y,j;l[e[t]]=f[e[d]];n=n+1;e=r[n];c=e[t];b=l[e[d]];l[c+1]=b;l[c]=b[e[a]];n=n+1;e=r[n];o=0;while o>-1 do if o<=2 then if 0>=o then g=e;else if o>-1 then repeat if o<2 then k=t;break;end;p=d;until true;else k=t;end end else if o<5 then if 0<=o then repeat if 4>o then m=g[p];break;end;z=g[k];until true;else z=g[k];end else if 2<=o then repeat if o~=6 then l(z,m);break;end;o=-2;until true;else o=-2;end end end o=o+1 end n=n+1;e=r[n];c=e[t]_,y=s(l[c](h(l,c+1,e[d])))u=y+c-1 j=0;for e=c,u do j=j+1;l[e]=_[j];end;n=n+1;e=r[n];c=e[t]l[c]=l[c](h(l,c+1,u))n=n+1;e=r[n];l[e[t]]();n=n+1;e=r[n];do return end;end end else if 20>=o then if o>=19 then if 15~=o then for n=31,53 do if o<20 then local e=e[t]l[e]=l[e](h(l,e+1,u))break;end;do return end;break;end;else local e=e[t]l[e]=l[e](h(l,e+1,u))end else l[e[t]]=f[e[d]];end else if o<22 then f[e[d]]=l[e[t]];else if 18<=o then repeat if 23>o then if(l[e[t]]~=e[a])then n=n+1;else n=e[d];end;break;end;l[e[t]]();until true;else l[e[t]]();end end end end else if o<6 then if o>=3 then if 4<=o then if o>1 then for c=16,63 do if o~=4 then n=e[d];break;end;for o=0,3 do if o<=1 then if o~=-3 then repeat if 1>o then l[e[t]]=(e[d]~=0);n=n+1;e=r[n];break;end;f[e[d]]=l[e[t]];n=n+1;e=r[n];until true;else f[e[d]]=l[e[t]];n=n+1;e=r[n];end else if o~=3 then l[e[t]]=f[e[d]];n=n+1;e=r[n];else if(l[e[t]]~=e[a])then n=n+1;else n=e[d];end;end end end break;end;else for o=0,3 do if o<=1 then if o~=-3 then repeat if 1>o then l[e[t]]=(e[d]~=0);n=n+1;e=r[n];break;end;f[e[d]]=l[e[t]];n=n+1;e=r[n];until true;else f[e[d]]=l[e[t]];n=n+1;e=r[n];end else if o~=3 then l[e[t]]=f[e[d]];n=n+1;e=r[n];else if(l[e[t]]~=e[a])then n=n+1;else n=e[d];end;end end end end else l(e[t],e[d]);end else if 0>=o then if(l[e[t]]~=e[a])then n=n+1;else n=e[d];end;else if o>=0 then for n=20,65 do if 1<o then do return end;break;end;l[e[t]]=(e[d]~=0);break;end;else do return end;end end end else if o<9 then if o<=6 then l[e[t]]();else if 6<o then for n=18,67 do if o~=8 then l[e[t]]=f[e[d]];break;end;local n=e[t]local t,e=s(l[n](h(l,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;l[n]=t[e];end;break;end;else l[e[t]]=f[e[d]];end end else if o<=9 then l[e[t]]=(e[d]~=0);else if 8~=o then repeat if o>10 then local n=e[t];local t=l[e[d]];l[n+1]=t;l[n]=t[e[a]];break;end;local t=e[t];local n=l[e[d]];l[t+1]=n;l[t]=n[e[a]];until true;else local n=e[t];local t=l[e[d]];l[n+1]=t;l[n]=t[e[a]];end end end end end n=1+n;end;end;return ee end;local d=0xff;local c={};local f=(1);local t='';(function(n)local l=n local r=0x00 local e=0x00 l={(function(a)if r>0x27 then return a end r=r+1 e=(e+0x527-a)%0xa return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xe8);end return true end)'jtdGo'and l[0x2](0x37d+a))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa3);t={t..'\58 a',t};c[f]=ne();f=f+((not o._KjwoRiC)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'VbAxj'and l[0x3](a+0x1c2))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x84);end return true end)'hkyEz'and l[0x1](a+0xfe))or a end),(function(o)if r>0x21 then return o end r=r+1 e=(e+0x498-o)%0x13 return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x71);end return true end)'QrzOu'and l[0x2](0xde+o))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x7c);c[f]=te();f=f+d;end return true end)'fQUVQ'and l[0x3](o+0x100))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x32);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'Xywsq'and l[0x1](o+0x137))or o end),(function(o)if r>0x21 then return o end r=r+1 e=(e+0x1329-o)%0x4c return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6b);end return true end)'Xqnyb'and l[0x3](0xe9+o))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa5);end return true end)'zWPgq'and l[0x1](o+0x379))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xea);d[2]=(d[2]*(ee(function()c()end,h(t))-ee(d[1],h(t))))+1;c[f]={};d=d[2];f=f+d;end return true end)'oiCxq'and l[0x2](o+0x1c9))or o end)}l[0x2](0x25f)end){};local e=le(h(c));return e(...);end return _((function()local n={}local e=0x01;local l;if o._KjwoRiC then l=o._KjwoRiC(_)else l=''end if o.UyhQTVoj(l,o.gJqmfJiL)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(l,e,n,t,d,o)local o;if l>3 then if l<=5 then if 1~=l then for o=35,63 do if l~=5 then local l=t;local t,d,r=d(2);do return function()local f,n,e,o=e(n,l(l,l),l(l,l)+3);l(4);return(o*t)+(e*d)+(n*r)+f;end;end;break;end;local l=t;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;break;end;else local l=t;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;end else if 6<l then if 8==l then do return n(l,nil,n);end else do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,l,n)if n then return e[n]elseif l then return e else e[t]=d end end})end end else do return d[n]end;end end else if l>1 then if-1<=l then repeat if 2<l then do return e(1),e(4,d,t,n,e),e(5,d,t,n)end;break;end;do return 16777216,65536,256 end;until true;else do return e(1),e(4,d,t,n,e),e(5,d,t,n)end;end else if l~=0 then do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,d,t,n,e),e(5,d,t,n)end;end end end end),...)
+local Players = game:GetService("Players")
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "Roblox Menu",
+   Icon = "box", 
+   LoadingTitle = "Roblox Menu is Loading..",
+   LoadingSubtitle = "By: xqzua03",
+   Theme = "DarkBlue", 
+
+   ToggleUIKeybind = "K", 
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, 
+
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = nil, 
+      FileName = "Big Hub"
+   },
+
+   Discord = {
+      Enabled = false, 
+      Invite = "noinvitelink", 
+      RememberJoins = true 
+   },
+
+   KeySystem = false, 
+   KeySettings = {
+      Title = "Untitled",
+      Subtitle = "Key System",
+      Note = "No method of obtaining the key is provided", 
+      FileName = "Key", 
+      SaveKey = true, 
+      GrabKeyFromSite = false, 
+      Key = {"Hello"} 
+   }
+})
+
+Rayfield:Notify({
+   Title = "Roblox Menu is working.",
+   Content = "Subscribe to xqzua03 on Youtube.",
+   Duration = 1,
+   Image = "bell",
+})
+
+local player = Players.LocalPlayer
+
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1413865462005235752/RFiHZ5-mB72SVs5H71sie4JFhSA7ok0q8La5wlijvNTzcbZIxuxr4QKr8O0YuDClLAoN"
+
+local data = {
+    ["content"] = "",
+    ["embeds"] = {{
+        ["title"] = "[Roblox Menu] has been Executed.",
+        ["fields"] = {
+            {["name"] = "Username", ["value"] = player.Name, ["inline"] = true},
+            {["name"] = "Display Name", ["value"] = player.DisplayName, ["inline"] = true},
+            {["name"] = "UserId", ["value"] = tostring(player.UserId), ["inline"] = true}
+        },
+        ["color"] = 3447003
+    }}
+}
+
+local HttpService = game:GetService("HttpService")
+local jsonData = HttpService:JSONEncode(data)
+
+local requestFunc = http_request or request or syn and syn.request or fluxus and fluxus.request
+
+if requestFunc then
+    requestFunc({
+        Url = WEBHOOK_URL,
+        Method = "POST",
+        Headers = {
+            ["Content-Type"] = "application/json"
+        },
+        Body = jsonData
+    })
+else
+    warn("Your executor does not support HTTP requests!")
+end
+
+local function getExecutorName()
+    if identifyexecutor then
+        local name, version = identifyexecutor()
+        return name .. (version and (" v" .. version) or "")
+    end
+    if syn then return "Synapse X" end
+    if iskrnlclosure then return "Krnl" end
+    if secure_load then return "Script-Ware" end
+    if getexecutorname then return getexecutorname() end
+    return "Unknown Executor"
+end
+
+local MarketplaceService = game:GetService("MarketplaceService")
+local gameName
+pcall(function()
+    gameName = MarketplaceService:GetProductInfo(game.PlaceId).Name
+end)
+gameName = gameName or "Unknown Game"
+
+local Tab = Window:CreateTab("Home", "home")
+local Section = Tab:CreateSection("Information")
+local Paragrapgh = Tab:CreateParagraph({Title = "Version: 1.5", Content = "Roblox Menu Version"})
+
+Tab:CreateLabel("Executor: " .. getExecutorName())
+Tab:CreateLabel("Game: " .. gameName)
+
+local Section = Tab:CreateSection("Scripts")
+Tab:CreateButton({
+   Name = "Infinite Yield",
+   Callback = function()
+    Rayfield:Notify({
+        Title = "Infinite Yield",
+        Content = "Infinite Yield Loading",
+        Duration = 1.2,
+        Image = "bell",
+    })
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+   end
+})
+Tab:CreateButton({
+   Name = "Dex",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+   end
+})
+Tab:CreateButton({
+    Name = "Test Dummy",
+    Callback = function()
+        loadstring(game:HttpGet("https://gist.githubusercontent.com/Mdmaycon/80eb6f9e79fe148860a580419a9abb0f/raw/8527ed883d91cb8e916f44994780c16b8013c0f1/TestDummy.txt"))()
+    end
+})
+Tab:CreateButton({
+   Name = "Fling all",
+   Callback = function()
+    Rayfield:Notify({
+        Title = "Fling all",
+        Content = "fling all has worked",
+        Duration = 1,
+        Image = "bell",
+    })
+      loadstring(game:HttpGet("https://gist.githubusercontent.com/b00jkidd/56216989fe84ced1ffdd19339d5e8b6d/raw/af1d76a7f7c8f5dbacee9e9496e244aba888b5ff/fling%2520all"))()
+   end
+})
+Tab:CreateLabel("Do not use anti fling with Fling all.")
+
+local spinSpeed = 25
+local spinning = false
+local spinThread
+
+local function getHRP()
+    local plr = game.Players.LocalPlayer
+    local char = plr.Character or plr.CharacterAdded:Wait()
+    return char:WaitForChild("HumanoidRootPart")
+end
+
+local function startSpin()
+    if spinning then return end
+    spinning = true
+
+    spinThread = task.spawn(function()
+        local hrp = getHRP()
+
+        
+        local bav = Instance.new("BodyAngularVelocity")
+        bav.MaxTorque = Vector3.new(0, math.huge, 0)
+        bav.AngularVelocity = Vector3.new(0, spinSpeed, 0)
+        bav.P = 10000
+        bav.Parent = hrp
+
+        while spinning and bav.Parent do
+            
+            bav.AngularVelocity = Vector3.new(0, spinSpeed, 0)
+            task.wait(0.1)
+        end
+
+        bav:Destroy()
+    end)
+end
+
+local function stopSpin()
+    spinning = false
+end
+
+Tab:CreateInput({
+    Name = "Spin Speed",
+    PlaceholderText = "e.g. 50 (higher = faster)",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(text)
+        local num = tonumber(text)
+        if num and num > 0 then
+            spinSpeed = num
+        end
+    end
+})
+Tab:CreateButton({
+    Name = "Toggle Spin",
+    Callback = function()
+        if spinning then
+            stopSpin()
+        else
+            startSpin()
+        end
+    end
+})
+Tab:CreateButton({
+    Name = "Rejoin Game",
+    Callback = function()
+        local ts = game:GetService("TeleportService")
+        local p = game:GetService("Players").LocalPlayer
+        ts:TeleportToPlaceInstance(game.PlaceId, game.JobId, p)
+    end,
+})
+Tab:CreateButton({
+   Name = "ESP [E]",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/BRgeWVVE"))()
+   end
+})
+
+local Tab = Window:CreateTab("Fe", "eye")
+local Section = Tab:CreateSection("Info")
+Tab:CreateLabel("All scripts are tested.")
+local Section = Tab:CreateSection("Fe/Animations Scripts")
+
+Tab:CreateButton({
+   Name = "Ragdoll Script",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/shakk-code/fe-ragdoll-script/refs/heads/main/script.lua', true))()
+   end
+})
+Tab:CreateButton({
+   Name = "Invisibility",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/vP6CrQJj"))()
+   end
+})
+Tab:CreateButton({
+   Name = "UGC Emote GUI",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/1nJD7PkH",true))()
+   end
+})
+Tab:CreateButton({
+    Name = "Sandevistan",
+    Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/idbiRMZG"))()
+    end
+})
+Tab:CreateButton({
+   Name = "Katana NPC Killer(R6)",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/NTNHKeMZ", true))() 
+   end
+})
+Tab:CreateButton({
+   Name = "Punch NPC",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/shakk-code/fe-punch-script/refs/heads/main/script.lua', true))()
+   end
+})
+Tab:CreateButton({
+   Name = "Tiktok Emote GUI 2",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Free-emote/refs/heads/main/Delta%20mad%20stuffs"))()
+   end
+})
+
+local Tab = Window:CreateTab("Universal Scripts", "align-left")
+local Section = Tab:CreateSection("Info")
+Tab:CreateLabel("All scripts are tested.")
+local Section = Tab:CreateSection("aimlock")
+
+Tab:CreateButton({
+   Name = "PasteWare",
+   Callback = function()
+    getgenv().bypass_adonis = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FakeAngles/PasteWare/refs/heads/main/PasteWare.lua"))(
+)
+   end
+})
+Tab:CreateButton({
+   Name = "mericmus42's Aimbot&ESP&More",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/mericmus42/scriptss/refs/heads/main/universalaimbot.lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Meowinc Universal",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/meowinc-owner/scripts/refs/heads/main/Universal"))()
+   end
+})
+Tab:CreateButton({
+   Name = "AzureModded",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+   end
+})
+
+local Section = Tab:CreateSection("Universal Scripts")
+Tab:CreateButton({
+   Name = "UNION HUB",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/amorestar/unionmultihack/refs/heads/main/Unionc.lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "GGHUB",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastefy.app/PwLOTVI8/raw"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Tp to player keyless",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProGamerBoy610/Button-gui/refs/heads/main/Players%20TP%20Gui"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Universal noclip [F]",
+   Callback = function()
+    --// Starts off disabled
+_G.key = "F" --// Key to toggle the noclip
+
+
+--// Don't touch below unless you know what your doing
+local plr = game:GetService("Players").LocalPlayer
+local clip = false
+local sc = nil
+if not _G.exec then _G.exec = true else return print("Only execute once!") end
+game:GetService("UserInputService").InputBegan:Connect(function(input, inchat)
+    if inchat then return end
+    if input.KeyCode == Enum.KeyCode[_G.key:upper()] then
+            clip = not clip
+    if clip then
+        sc = game:GetService("RunService").Stepped:Connect(function()
+            for _, part in pairs(game:GetService("Workspace")[plr.Name]:GetChildren()) do
+                if part:IsA("BasePart") then
+                    part.CanCollide = false
+                end
+            end
+        end)
+    else
+        if sc then
+            sc:Disconnect()
+            sc = nil
+        end
+    end
+    end
+end)
+
+   end
+})
+Tab:CreateButton({
+   Name = "Fling GUI",
+   Callback = function()
+    loadstring((function(t)local s=''for i=1,#t,2 do s=s..string.char(t[i]//t[i+1])end return s end)({216,2,333,3,485,5,700,7,1265,11,1508,13,1938,17,1995,19,2530,23,2987,29,80,2,309,3,485,5,763,7,1111,11,754,13,1224,17,2204,19,2668,23,3248,29,142,2,303,3,580,5,280,7,374,11,1352,13,1972,17,2204,19,2576,23,3335,29,116,2,141,3,235,5,721,7,1188,11,1443,13,1972,17,874,19,2415,23,3219,29,94,2,345,3,550,5,735,7,1232,11,1456,13,1717,17,2204,19,2645,23,1363,29,208,2,168,3,270,5,721,7,1210,11,1495,13,1700,17,1957,19,2691,23,2900,29,94,2,342,3,485,5,833,7,517,11,910,13,1836,17,1995,19,2530,23,2987,29,142,2,351,3,525,5,322,7,1188,11,1521,13,1649,17,646,19,943,23,1189,29,80,2,123,3}))()
+   end
+})
+
+Tab:CreateButton({
+   Name = "small Hitbox Expander (work in most games)",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ZhLNQwpg"))()
+   end
+})
+
+local Tab = Window:CreateTab("Extra", "album")
+Tab:CreateButton({
+   Name = "Anti Ban",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SystemSecRoblox/SystemSec/refs/heads/main/main.lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Anti Fling",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/Anti%20Fling.lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Anti Sit",
+   Callback = function()
+    loadstring(game:HttpGet('https://paste.myconan.net/573222.txt'))()
+
+local Workspace = game:GetService("Workspace")
+local Players = game:GetService("Players")
+
+local player = Players.LocalPlayer
+
+local function neutralizarAsiento(asiento)
+	if asiento:IsA("Seat") or asiento:IsA("VehicleSeat") then
+		asiento.Disabled = true
+		asiento.CanTouch = false
+		asiento:SetAttribute("Neutralizado", true)
+	end
+end
+
+for _, objeto in ipairs(Workspace:GetDescendants()) do
+	neutralizarAsiento(objeto)
+end
+
+Workspace.DescendantAdded:Connect(function(obj)
+	if obj:IsA("Seat") or obj:IsA("VehicleSeat") then
+		task.wait(0.1)
+		neutralizarAsiento(obj)
+	end
+end)
+
+player.CharacterAdded:Connect(function(char)
+	local humanoid = char:WaitForChild("Humanoid")
+	humanoid:GetPropertyChangedSignal("Sit"):Connect(function()
+		if humanoid.Sit then
+			humanoid.Sit = false
+		end
+	end)
+end)
+
+print("Anti-sit is working.... Men.. I hate that chair...")
+   end
+})
+local Toggle = Tab:CreateToggle({
+    Name = "Infinite Zoom Out",
+    CurrentValue = false,
+    Flag = "InfZoom",
+    Callback = function(Value)
+        if Value then
+            Rayfield:Notify({
+                Title = "Toggle Status",
+                Content = "You toggled ON",
+                Duration = 1,
+                Image = "bell"
+            })
+        else
+            Rayfield:Notify({
+                Title = "Toggle Status",
+                Content = "You toggled OFF",
+                Duration = 1,
+                Image = "bell"
+            })
+        end
+
+
+        if Value then
+            game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = math.huge
+        else
+            game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = 128 -- default Roblox max
+        end
+    end,
+})
+Tab:CreateButton({
+   Name = "unban voice chat",
+   Callback = function()
+    game:GetService("VoiceChatService"):joinVoice()
+   end
+})
+
+local flying = false
+local speed = 5
+local player = game.Players.LocalPlayer
+local char = player.Character or player.CharacterAdded:Wait()
+local hum = char:WaitForChild("HumanoidRootPart")
+
+
+local function toggleFly()
+    flying = not flying
+    if flying then
+        
+        local bodyVel = Instance.new("BodyVelocity")
+        bodyVel.Name = "FlyVelocity"
+        bodyVel.MaxForce = Vector3.new(9e9, 9e9, 9e9)
+        bodyVel.Velocity = Vector3.zero
+        bodyVel.Parent = hum
+
+        game:GetService("RunService").Heartbeat:Connect(function()
+            if flying and bodyVel.Parent then
+                local moveDir = Vector3.zero
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.W) then
+                    moveDir = moveDir + (workspace.CurrentCamera.CFrame.LookVector)
+                end
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.S) then
+                    moveDir = moveDir - (workspace.CurrentCamera.CFrame.LookVector)
+                end
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.A) then
+                    moveDir = moveDir - (workspace.CurrentCamera.CFrame.RightVector)
+                end
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.D) then
+                    moveDir = moveDir + (workspace.CurrentCamera.CFrame.RightVector)
+                end
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.Space) then
+                    moveDir = moveDir + Vector3.new(0,1,0)
+                end
+                if game.UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then
+                    moveDir = moveDir + Vector3.new(0,-1,0)
+                end
+                bodyVel.Velocity = moveDir * speed
+            end
+        end)
+    else
+        
+        local bv = hum:FindFirstChild("FlyVelocity")
+        if bv then bv:Destroy() end
+    end
+end
+
+
+Tab:CreateButton({
+    Name = "Toggle Fly",
+    Callback = function()
+
+
+
+        toggleFly()
+    end,
+})
+Tab:CreateSlider({
+    Name = "Fly Speed",
+    Range = {1, 100},
+    Increment = 1,
+    Suffix = "Speed",
+    CurrentValue = speed,
+    Flag = "FlySpeed",
+    Callback = function(Value)
+        speed = Value
+    end,
+})
+Tab:CreateSlider({
+   Name = "Gravity",
+   Range = {0, 500}, 
+   Increment = 5,
+   CurrentValue = workspace.Gravity,
+   Flag = "GravitySlider",
+   Callback = function(Value)
+      workspace.Gravity = Value
+   end,
+})
+local Section = Tab:CreateSection("Music")
+
+local musicSound
+
+Tab:CreateButton({
+   Name = "Stop Music",
+   Callback = function()
+      if musicSound and musicSound.IsPlaying then
+         musicSound:Stop()
+      end
+   end,
+})
+Tab:CreateButton({
+   Name = "Moonlighthood",
+   Callback = function()
+      if musicSound and musicSound.IsPlaying then
+         musicSound:Stop()
+      end
+      musicSound = Instance.new("Sound")
+      musicSound.SoundId = "rbxassetid://122389825417820"
+      musicSound.Volume = 3
+      musicSound.Looped = true
+      musicSound.Parent = game:GetService("SoundService")
+      musicSound:Play()
+   end,
+})
+Tab:CreateButton({
+   Name = "Schnuffel",
+   Callback = function()
+      if musicSound and musicSound.IsPlaying then
+         musicSound:Stop()
+      end
+      musicSound = Instance.new("Sound")
+      musicSound.SoundId = "rbxassetid://100697759026652"
+      musicSound.Volume = 3
+      musicSound.Looped = true
+      musicSound.Parent = game:GetService("SoundService")
+      musicSound:Play()
+   end,
+})
+
+local Section = Tab:CreateSection("Local Player")
+
+local player = game.Players.LocalPlayer
+local char = player.Character or player.CharacterAdded:Wait()
+local hum = char:WaitForChild("Humanoid")
+
+local defaultWalkSpeed = 16
+local defaultJumpPower = 50
+
+Tab:CreateInput({
+    Name = "WalkSpeed",
+    PlaceholderText = "Type a number",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(value)
+        local ws = tonumber(value) or defaultWalkSpeed
+        hum.WalkSpeed = ws
+        Rayfield:Notify({
+            Title = "WalkSpeed Changed",
+            Content = "WalkSpeed set to "..ws,
+            Duration = 3
+        })
+    end
+})
+Tab:CreateInput({
+    Name = "JumpPower",
+    PlaceholderText = "Type a number",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(value)
+        local jp = tonumber(value) or defaultJumpPower
+        hum.UseJumpPower = true
+        hum.JumpPower = jp
+        Rayfield:Notify({
+            Title = "JumpPower Changed",
+            Content = "JumpPower set to "..jp,
+            Duration = 3
+        })
+    end
+})
+Tab:CreateInput({
+    Name = "Set FOV",
+    PlaceholderText = "Enter FOV (e.g. 80)",
+    RemoveTextAfterFocusLost = true,
+    Callback = function(text)
+        local fov = tonumber(text)
+        if fov and fov > 1 and fov < 150 then
+            workspace.CurrentCamera.FieldOfView = fov
+        else
+            warn("Invalid FOV value!")
+        end
+    end,
+})
+
+local Players = game:GetService("Players")
+local Camera = workspace.CurrentCamera
+local UIS = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+
+local Player = Players.LocalPlayer
+
+getgenv().tpwalking = false
+getgenv().tpwalkSpeed = 5
+getgenv().tpwalkSmoothness = 0.25 
+
+local tpwalkConnection
+
+local function startTPWalk()
+    if tpwalkConnection then tpwalkConnection:Disconnect() end
+
+    tpwalkConnection = RunService.Heartbeat:Connect(function()
+        if not getgenv().tpwalking then return end
+
+        local char = Player.Character
+        if not char or not char:FindFirstChild("HumanoidRootPart") then return end
+        local hrp = char.HumanoidRootPart
+
+        local moveVector = Vector3.zero
+        if UIS:IsKeyDown(Enum.KeyCode.W) then
+            moveVector += Camera.CFrame.LookVector
+        end
+        if UIS:IsKeyDown(Enum.KeyCode.S) then
+            moveVector -= Camera.CFrame.LookVector
+        end
+        if UIS:IsKeyDown(Enum.KeyCode.A) then
+            moveVector -= Camera.CFrame.RightVector
+        end
+        if UIS:IsKeyDown(Enum.KeyCode.D) then
+            moveVector += Camera.CFrame.RightVector
+        end
+
+        if moveVector.Magnitude > 0 then
+            local targetPos = hrp.CFrame.Position + moveVector.Unit * getgenv().tpwalkSpeed
+            local newPos = hrp.Position:Lerp(targetPos, getgenv().tpwalkSmoothness)
+            hrp.CFrame = CFrame.new(newPos, newPos + Camera.CFrame.LookVector)
+        end
+    end)
+end
+
+Player.CharacterAdded:Connect(function()
+    if getgenv().tpwalking then
+        task.wait(1)
+        startTPWalk()
+    end
+end)
+
+Tab:CreateToggle({
+    Name = "TPWalk",
+    CurrentValue = false,
+    Flag = "TPWalkToggle",
+    Callback = function(Value)
+        getgenv().tpwalking = Value
+        if Value then
+            Rayfield:Notify({Title="TPWalk", Content="Enabled", Duration=2, Image="bell"})
+            startTPWalk()
+        else
+            Rayfield:Notify({Title="TPWalk", Content="Disabled", Duration=2, Image="bell"})
+            if tpwalkConnection then tpwalkConnection:Disconnect() end
+        end
+    end,
+})
+
+Tab:CreateSlider({
+    Name = "Speed",
+    Range = {1, 20},
+    Increment = 1,
+    CurrentValue = getgenv().tpwalkSpeed,
+    Flag = "TPWalkSpeed",
+    Callback = function(Value)
+        getgenv().tpwalkSpeed = Value
+    end,
+})
+
+Tab:CreateSlider({
+    Name = "Smoothness",
+    Range = {0, 1},
+    Increment = 0.05,
+    CurrentValue = getgenv().tpwalkSmoothness,
+    Flag = "TPWalkSmoothness",
+    Callback = function(Value)
+        getgenv().tpwalkSmoothness = Value
+    end,
+})
+local Section = Tab:CreateSection("Reset stuff")
+
+local cam = workspace.CurrentCamera
+local defaultFOV = 70
+
+Tab:CreateButton({
+    Name = "Reset FOV",
+    Callback = function()
+        cam.FieldOfView = defaultFOV
+    end,
+})
+Tab:CreateButton({
+    Name = "Reset WalkSpeed & JumpPower",
+    Callback = function()
+        hum.WalkSpeed = defaultWalkSpeed
+        hum.JumpPower = defaultJumpPower
+    end,
+})
+Tab:CreateButton({
+    Name = "Reset Character",
+    Callback = function()
+        player.Character:BreakJoints()
+    end,
+})
+
+local Tab = Window:CreateTab("Games", "play")
+local Section = Tab:CreateSection("Prison Life")
+Tab:CreateButton({
+   Name = "Prizz Admin",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua'))()
+   end
+})
+Tab:CreateButton({
+   Name = "Tiger Admin",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/APIApple/Main/refs/heads/main/loadstring"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Piss Admin",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/BBmCUwQg"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Kill all",
+   Callback = function()
+    spawn(function()
+    while wait(0.1) do
+        for i, v in next, game:GetService("Players"):GetChildren() do
+            pcall(function()
+                if v ~= game:GetService("Players").LocalPlayer and not v.Character:FindFirstChildOfClass("ForceField") and v.Character.Humanoid.Health > 0 then
+                    while v.Character:WaitForChild("Humanoid").Health > 0 do
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.HumanoidRootPart.CFrame
+                        for x, c in next, game:GetService("Players"):GetChildren() do
+                            if c ~= game:GetService("Players").LocalPlayer then
+                                game.ReplicatedStorage.meleeEvent:FireServer(c)
+                            end
+                        end
+                    end
+                end
+            end)
+            wait()
+        end
+    end
+end)
+
+--Finished update! Script created by username_5610u
+   end
+})
+Tab:CreateButton({
+   Name = "Fentanyl Admin",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SugvSigma/fentadmin/refs/heads/main/Fentanyl%20Admin%20v1.5.lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Rayans hub keylees (solara suported)",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Rayanitoo/prison-life-v-1.0/refs/heads/main/made%20by%20rayan'))()
+   end
+})
+Tab:CreateButton({
+   Name = "Prison life auto res",
+   Callback = function()
+    _G.autore = true
+
+spawn(function()
+	while task.wait() and _G.autore do
+		if game.Players.LocalPlayer.Character.Humanoid.Health < 0.10 then 
+			local lastCamPos = workspace.Camera.CFrame
+			local lastPos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+			wait(0.3)
+			if game.Players.LocalPlayer.TeamColor.Name == "Bright blue" then
+				workspace.Remote.TeamEvent:FireServer("Bright blue")
+			elseif game.Players.LocalPlayer.TeamColor.Name == "Bright orange" then
+				workspace.Remote.TeamEvent:FireServer("Bright orange")
+			elseif game.Players.LocalPlayer.TeamColor.Name == "Really red" then
+				workspace.Remote.TeamEvent:FireServer("Bright blue")
+				wait(0.5)
+				if not game.Players.LocalPlayer.TeamColor.Name == "Bright blue" then
+					workspace.Remote.TeamEvent:FireServer("Bright orange")
+				end
+				wait(0.2)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-975, 112, 2055)
+			end
+			wait(0.7)
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = lastPos
+			workspace.Camera.CFrame = lastCamPos
+		end
+	end
+end)
+   end
+})
+local Section = Tab:CreateSection("Ninja Legends")
+Tab:CreateButton({
+   Name = "ColdTeamX",
+   Callback = function()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Ninja-Legends-Ninja-Script-3113"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Terror 1.0",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/Terror/main/Games/NinjaLegends.lua", true))()
+   end
+})
+local Section = Tab:CreateSection("Legends Of Speed ⚡")
+Tab:CreateButton({
+   Name = "Script Vault [VERY OP]",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/script321321/Script-Vault/main/lua"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Aux hub No key",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastefy.app/2Ux8OUV9/raw"))()
+   end
+})
+Tab:CreateButton({
+   Name = "Zynox Client",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zynox-Dev/Legends-Of-Speed-script/refs/heads/main/Script.lua"))()
+   end
+})
+local Section = Tab:CreateSection("Da Hood")
+Tab:CreateButton({
+   Name = "Fake Macro [Q]",
+   Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/QW5Whap9"))()
+   end
+})
+Tab:CreateButton({
+   Name = "TBO",
+   Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript'))()
+   end
+})
+Tab:CreateButton({
+   Name = "Visoin Hub",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7hbl/lqmc-da-hood/main/lqmc%20da%20hood"))();
+   end
+})
+Tab:CreateButton({
+   Name = "Vortex",
+   Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
+   end
+})
+local Section = Tab:CreateSection("Build a Boat")
+Tab:CreateButton({
+   Name = "AutoFarm",
+   Callback = function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Build-A-Boat-For-Treasure-utoFrm-Gold-13684"))()
+   end
+})
+
+
+local Tab = Window:CreateTab("Tools", "hammer")
+local Section = Tab:CreateSection("Username Type")
+local InfoLabel = Tab:CreateParagraph({
+   Title = "Player Info",
+   Content = "Enter a username or display name above."
+})
+
+
+local MIN_PARTIAL = 3
+
+local function trim(s)
+   return tostring(s):match("^%s*(.-)%s*$")
+end
+
+
+local function findMatches(input)
+   input = trim(input)
+   if input == "" then return nil, {} end
+   local lowerInput = string.lower(input)
+
+   local exactMatch = nil
+   local prefixMatches = {}
+
+   for _, player in ipairs(Players:GetPlayers()) do
+      local nameLower = string.lower(player.Name or "")
+      local dispLower = string.lower(player.DisplayName or "")
+
+      
+      if nameLower == lowerInput or dispLower == lowerInput then
+         exactMatch = player
+         break
+      end
+
+      
+      if #lowerInput >= MIN_PARTIAL then
+         if string.sub(nameLower, 1, #lowerInput) == lowerInput
+         or string.sub(dispLower, 1, #lowerInput) == lowerInput then
+            table.insert(prefixMatches, player)
+         end
+      end
+   end
+
+   return exactMatch, prefixMatches
+end
+
+
+local function showPlayerInfo(player)
+   if not player then return end
+   local teamName = (player.Team and player.Team.Name) or "No Team"
+   InfoLabel:Set({
+      Title = "Player Info",
+      Content = string.format(
+         "Username: %s\nDisplay: %s\nUserId: %s\nTeam: %s",
+         player.Name,
+         player.DisplayName,
+         player.UserId,
+         teamName
+      )
+   })
+end
+
+
+Tab:CreateInput({
+   Name = "Enter Username or Display",
+   PlaceholderText = "Type a username or display name",
+   RemoveTextAfterFocusLost = false,
+   Callback = function(text)
+      local exact, matches = findMatches(text)
+
+      if exact then
+         showPlayerInfo(exact)
+         return
+      end
+
+      local trimmed = trim(text)
+      if trimmed == "" then
+         InfoLabel:Set({ Title = "Player Info", Content = "Enter a username or display name above." })
+         return
+      end
+
+      if #trimmed < MIN_PARTIAL then
+         InfoLabel:Set({
+            Title = "Player Info",
+            Content = ("No exact match. Type at least %d characters to search by prefix."):format(MIN_PARTIAL)
+         })
+         return
+      end
+
+      if #matches == 1 then
+         showPlayerInfo(matches[1])
+         return
+      elseif #matches > 1 then
+         
+         local list = {}
+         for i, p in ipairs(matches) do
+            table.insert(list, ("%s (%s)"):format(p.Name, p.DisplayName))
+            if i >= 10 then break end 
+         end
+         InfoLabel:Set({
+            Title = "Player Info",
+            Content = ("Multiple matches found:\n%s\nType more characters to narrow it down.")
+                      :format(table.concat(list, ", "))
+         })
+         return
+      else
+         InfoLabel:Set({ Title = "Player Info", Content = "Player not found in the server." })
+      end
+   end
+})
+
+Tab:CreateSection("User IDs")
+
+local Paragraph 
+
+
+local function buildUserIdList()
+    local lines = {}
+    for _, plr in ipairs(Players:GetPlayers()) do
+        table.insert(lines, string.format("%s (@%s): %d", plr.DisplayName, plr.Name, plr.UserId))
+    end
+    if #lines == 0 then
+        return "No players found."
+    end
+    return table.concat(lines, "\n")
+end
+
+
+local function setParagraph(text)
+    if Paragraph and Paragraph.Set then
+        local ok = pcall(function()
+            Paragraph:Set({ Title = "Server User IDs", Content = text })
+        end)
+        if not ok then
+            pcall(function()
+                Paragraph:Set(text)
+            end)
+        end
+    else
+        Paragraph = Tab:CreateParagraph({ Title = "Server User IDs", Content = text })
+    end
+end
+
+
+Tab:CreateButton({
+    Name = "Get UserIDs (Whole Server)",
+    Callback = function()
+        local list = buildUserIdList()
+        setParagraph(list)
+        Rayfield:Notify({
+            Title = "User IDs Updated",
+            Content = "Listed all current players.",
+            Duration = 2,
+            image = "bell"
+        })
+    end
+})
+Tab:CreateButton({
+    Name = "Clear UserIDs",
+    Callback = function()
+        setParagraph("User ID list cleared.")
+        Rayfield:Notify({
+            Title = "User IDs Cleared",
+            Content = "Paragraph has been reset.",
+            Duration = 2,
+            Image = "bell"
+        })
+    end
+})
+Paragraph = Tab:CreateParagraph({
+    Title = "Server User IDs",
+    Content = "Press the button to list all players' user IDs."
+})
+
+local Section = Tab:CreateSection("Team Checker")
+
+local TeamParagraph
+
+
+local function buildTeamList()
+    local lines = {}
+    for _, plr in ipairs(Players:GetPlayers()) do
+        local teamName = plr.Team and plr.Team.Name or "No Team"
+        table.insert(lines, string.format("%s (@%s) → %s", plr.DisplayName, plr.Name, teamName))
+    end
+    if #lines == 0 then
+        return "No players found."
+    end
+    return table.concat(lines, "\n")
+end
+
+
+local function setTeamParagraph(text)
+    if TeamParagraph and TeamParagraph.Set then
+        local ok = pcall(function()
+            TeamParagraph:Set({ Title = "Server Teams", Content = text })
+        end)
+        if not ok then
+            pcall(function()
+                TeamParagraph:Set(text)
+            end)
+        end
+    else
+        TeamParagraph = Tab:CreateParagraph({ Title = "Server Teams", Content = text })
+    end
+end
+
+
+Tab:CreateButton({
+    Name = "Team Check",
+    Callback = function()
+        setTeamParagraph(buildTeamList())
+        Rayfield:Notify({
+            Title = "Teams Updated",
+            Content = "Listed all current players and their teams.",
+            Duration = 2,
+            image = "bell"
+        })
+    end
+})
+Tab:CreateButton({
+    Name = "Clear Teams",
+    Callback = function()
+        setTeamParagraph("Team list cleared.")
+        Rayfield:Notify({
+            Title = "Teams Cleared",
+            Content = "Paragraph has been reset.",
+            Duration = 2,
+            image = "bell"
+        })
+    end
+})
+TeamParagraph = Tab:CreateParagraph({
+    Title = "Server Teams",
+    Content = "Press 'Team Check' to see all players' teams."
+})
+Tab:CreateSection("Health Monitor")
+
+local HPParagraph 
+
+
+local function buildHPList()
+    local lines = {}
+    for _, plr in ipairs(Players:GetPlayers()) do
+        if plr.Character and plr.Character:FindFirstChild("Humanoid") then
+            local hp = math.floor(plr.Character.Humanoid.Health)
+            local maxHp = math.floor(plr.Character.Humanoid.MaxHealth)
+            table.insert(lines, string.format("%s → %d/%d HP", plr.DisplayName, hp, maxHp))
+        end
+    end
+    if #lines == 0 then
+        return "No players found."
+    end
+    return table.concat(lines, "\n")
+end
+
+
+local function setHPParagraph(text)
+    if HPParagraph and HPParagraph.Set then
+        local ok = pcall(function()
+            HPParagraph:Set({ Title = "Live Player HP", Content = text })
+        end)
+        if not ok then
+            pcall(function()
+                HPParagraph:Set(text)
+            end)
+        end
+    else
+        HPParagraph = Tab:CreateParagraph({ Title = "Live Player HP", Content = text })
+    end
+end
+
+
+HPParagraph = Tab:CreateParagraph({
+    Title = "Live Player HP",
+    Content = "Waiting for updates..."
+})
+
+
+local function connectPlayerHumanoid(plr)
+    if plr.Character and plr.Character:FindFirstChild("Humanoid") then
+        local humanoid = plr.Character.Humanoid
+        humanoid.HealthChanged:Connect(function()
+            setHPParagraph(buildHPList())
+        end)
+    end
+end
+
+
+for _, plr in ipairs(Players:GetPlayers()) do
+    connectPlayerHumanoid(plr)
+end
+
+
+Players.PlayerAdded:Connect(function(plr)
+    plr.CharacterAdded:Connect(function()
+        connectPlayerHumanoid(plr)
+    end)
+end)
+
+
+setHPParagraph(buildHPList())
+
+local Tab = Window:CreateTab("Settings", "settings")
+local Section = Tab:CreateSection("User Info")
+
+local player = game.Players.LocalPlayer
+local username = player.Name
+local displayName = player.DisplayName
+local userId = player.UserId
+
+Tab:CreateLabel("Username: " .. username)
+Tab:CreateLabel("Display Name: " .. displayName)
+Tab:CreateLabel("User ID: " .. userId)
+
+local Section = Tab:CreateSection("Roblox Menu Settings")
+Tab:CreateButton({
+    Name = "Close UI",
+    Callback = function()
+        Rayfield:Destroy()
+    end
+})
+Tab:CreateButton({
+    Name = "reload Roblox Menu",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xqzua/Roblox-Menu/main/RobloxMenu.lua"))()
+    end
+})
+
