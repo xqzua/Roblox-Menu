@@ -45,41 +45,6 @@ Rayfield:Notify({
    Image = "bell",
 })
 
-local player = Players.LocalPlayer
-
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1413865462005235752/RFiHZ5-mB72SVs5H71sie4JFhSA7ok0q8La5wlijvNTzcbZIxuxr4QKr8O0YuDClLAoN"
-
-local data = {
-    ["content"] = "",
-    ["embeds"] = {{
-        ["title"] = "[Roblox Menu] has been Executed.",
-        ["fields"] = {
-            {["name"] = "Username", ["value"] = player.Name, ["inline"] = true},
-            {["name"] = "Display Name", ["value"] = player.DisplayName, ["inline"] = true},
-            {["name"] = "UserId", ["value"] = tostring(player.UserId), ["inline"] = true}
-        },
-        ["color"] = 3447003
-    }}
-}
-
-local HttpService = game:GetService("HttpService")
-local jsonData = HttpService:JSONEncode(data)
-
-local requestFunc = http_request or request or syn and syn.request or fluxus and fluxus.request
-
-if requestFunc then
-    requestFunc({
-        Url = WEBHOOK_URL,
-        Method = "POST",
-        Headers = {
-            ["Content-Type"] = "application/json"
-        },
-        Body = jsonData
-    })
-else
-    warn("Your executor does not support HTTP requests!")
-end
-
 local function getExecutorName()
     if identifyexecutor then
         local name, version = identifyexecutor()
